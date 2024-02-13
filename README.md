@@ -1,8 +1,26 @@
-# React + Vite
+# Track-It
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Este projeto é uma aplicação web desenvolvida para facilitar a gestão de hábitos diários. Ele permite aos usuários criar, visualizar, atualizar e excluir hábitos de forma simples e eficiente.
 
-Currently, two official plugins are available:
+## Recursos Principais
+- Cadastro e login de usuários
+- Adição, edição e remoção de hábitos
+- Marcação de hábitos como concluídas
+- Trackeamento de hábitos semanais e índice de conclusão
+- Interface amigável e responsiva
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologias Utilizadas
+- HTML5
+- CSS3
+- JavaScript
+- ReactJS
+- Styled Components
+- Context Api
+- React Router DOM
+- DayJS
+- React Circular Progressbar
+- Axios
+
+
+
